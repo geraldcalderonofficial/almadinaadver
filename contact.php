@@ -1,0 +1,320 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Almadina Advertisments  - Contact Us</title>
+
+<!--[if lt IE 9]>
+
+	<script src="js/html5shiv.js"></script>
+
+<![endif]-->
+<!--[if lt IE 9]>
+
+	<script src="js/mq.js"></script>
+
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<meta charset="UTF-8">
+<meta name="viewport" content="initial-scale=1, maximum-scale=1">
+<meta name="viewport" content="width=device-width">
+<!-- Css Files Start -->
+<link rel="shortcut icon" href="./images/favicon.png">
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<!-- All css -->
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
+<!-- Bootstrap Css -->
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="css/customIE.css" /><![endif]-->
+<!-- Css Files End -->
+</head>
+<body>
+
+<!-- Start Main Wrapper -->
+
+<div id="wrapper">
+
+  <!-- Start of Header -->
+
+  <header id="headersub" class="hinner mbtm">
+    <section class="container">
+      <section class="row"> 
+        <!-- Start of Logo Container -->
+        <section class="span3"> 
+        	<div id="logo"><a href="index.html"> <img src="images/logo.png" alt="Logo" /></a></div>
+        </section>
+        <!-- End of Logo Container --> 
+        <!-- start of Social & Nav Container -->
+        <section class="span9"> 
+          <!-- Top Social & Info Start -->
+          <div id="top_social">
+          <div id="top_bar">
+              <div class="socialicons">
+               <div class="hidden-phone socialicons_class"> <a title="Visit Facebook page" href="https://www.facebook.com/AlmadinaMisurataPaints" target="_blank" class="social_active social_facebook"><span style="display: inline;" class="da-animate da-slideFromRight"></span></a> <a title="Visit Youtube page" href="http://www.youtube.com/channel/UC5cp2cjS1ZVfNt-SYyNn3Rw" target="_blank" class="social_active social_youtube"><span style="display: inline;" class="da-animate da-slideFromBottom"></span></a><a title="Visit Twitter page" href="https://twitter.com/Almadinapaints" target="_blank" class="social_active social_twitter"><span style="display: inline;" class="da-animate da-slideFromBottom"></span></a> </div>
+              </div>
+              <div id="nav_info">
+                <ul>
+                  <li> <i class="icon-envelope"></i> <a href="mailto:projects@company.com">info@almadinaadvertisments.com</a> </li>
+                  <li> <i class="icon-phone"></i> <a href="contact-us.html">Call us +051 272 2008</a> </li>
+                </ul>
+              </div>
+          </div>
+          <!-- End of Top Social & Info --> 
+          <!-- start of Navigation -->
+          <nav id="nav">
+            <div class="navbar navbar-inverse">
+              <div class="navbar-inner">
+                <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar" type="button"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                <div class="nav-collapse collapse">
+                   <ul class="nav">
+                    <li> <a href="index.html">Home</a> </li>
+                    <li> <a href="about-us.html">About Us</a> </li>
+                    <li class="dropdown"> <a href="services.html" class="dropdown-toggle">Our Services<b class="caret"></b> </a>
+                      <ul class="dropdown-menu">
+                        <li><a href="residential.html">Residences: Large and small</a></li>
+                        <li><a href="interior-exterior.html">Interiors & Exteriors</a></li>
+                        <li><a href="commercial.html">Commercial Properties</a></li>
+                        <li><a href="restorative.html">Restorative & Custom Finishes</a></li>
+                        <li><a href="repair.html">Interior Surface Repair</a></li>
+                        <li><a href="waterproofing.html">Waterproofing</a></li>
+                      </ul>
+                    </li>
+                    <li> <a href="work.html">Our Work</a> </li>
+                    <li> <a href="consulting.html"> Color Consulting </a></li>
+                    <li> <a href="vendors.html"> Recommended Vendors </a></li>
+                    <li> <a href="contact-us.html">Contact Us</a> </li>
+                  </ul>
+                </div>
+                
+                <!--/.nav-collapse --> 
+              </div>
+              <!-- /.navbar-inner --> 
+            </div>
+          </nav>
+          </div>
+          <!-- End of Navigation --> 
+        </section>
+        <!-- End of Social & Nav Container --> 
+      </section>
+    </section>
+    <!-- start of Main Slider --> 
+  </header>
+  <!-- End of Header -->
+
+ 
+    <!-- Start of Interior-Exterior page-->
+
+  <section id="content_Wrapper" class="mbtm2">
+    <section class="container container-fluid ">
+      <section class="row-fluid">
+        <section class="span12 mbtm2">
+          <div class="title-holder"><h3>Thank you for your comment</h3></div>
+          <div class="span9 first message">Your message has been sent!</div>
+          <!-- start of Feature Section -->
+          
+        </section>
+      </section>
+    </section>
+    <!-- End of Feature Section --> 
+
+  </section>
+
+  <!-- End of Interior-Exterior page-->
+  
+
+  <!-- start of footer elements -->
+
+  <section id="footer_elements">
+
+    <section class="container container-fluid">
+
+      <!--<section class="row-fluid"> <img src="images/footer_element.png" alt="Footer Elements" class="fimage" /> </section>-->
+
+    </section>
+
+  </section>
+
+  <!-- End of Footer Elements -->
+
+  <!-- start of footer elements -->
+
+  <footer id="footer">
+
+    <section class="container container-fluid">
+
+      <section class="row-fluid">
+
+        <figure class="span3 widget twitter_widget">
+
+          <h4> Twitter updates </h4>
+
+          <ul id="twitter_widget">
+
+            <li>
+
+              <p> In vitae sem nec massa imperdiet condimentum. Donec ut mauris vel risus rutrum commodo massa imperdie massa mauris vel risusimperdiet... </p>
+
+              <a href="#"> December 25, 2013 / 55/2 7:55 pm </a> </li>
+
+            <li>
+
+              <p> In vitae sem nec massa imperdiet condimentum. Donec ut mauris vel risus rutrum commodo massa imperdie massa mauris vel risusimperdiet... </p>
+
+              <a href="#"> December 25, 2013 / 55/2 7:55 pm </a> </li>
+
+            <li>
+
+              <p> In vitae sem nec massa imperdiet condimentum. Donec ut mauris vel risus rutrum commodo massa imperdie massa mauris vel risusimperdiet... </p>
+
+              <a href="#"> December 25, 2013 / 55/2 7:55 pm </a> </li>
+
+          </ul>
+
+          <span class="sep"></span> <span class="follow_twitter"> <i class="icon-twitter"></i> <a href="#"> Follow us on Twitter! </a></span> </figure>
+
+        <figure class="span3 widget gallery_widget">
+
+          <h4> Recent projects </h4>
+
+          <ul id="gallery_widget" class="gallery">
+
+            <li> <img src="images/glry-img1.jpg" alt="" /> <span> <a href="images/glry-img1.jpg" data-gal="prettyPhoto[gallery1]"> <img class="img_hover_gal" src="images/lightbox-icon.png" alt=""/> </a> </span> <span class="border_line"></span> </li>
+
+            <li> <img src="images/glry-img2.jpg" alt="" /> <span> <a href="images/glry-img2.jpg" data-gal="prettyPhoto[gallery1]"> <img class="img_hover_gal" src="images/lightbox-icon.png" alt=""/> </a> </span> <span class="border_line"></span> </li>
+
+            <li> <img src="images/glry-img3.jpg" alt="" /> <span> <a href="images/glry-img3.jpg" data-gal="prettyPhoto[gallery1]"> <img class="img_hover_gal" src="images/lightbox-icon.png" alt=""/> </a> </span> <span class="border_line"></span> </li>
+
+            <li> <img src="images/glry-img4.jpg" alt="" /> <span> <a href="images/glry-img4.jpg" data-gal="prettyPhoto[gallery1]"> <img class="img_hover_gal" src="images/lightbox-icon.png" alt=""/> </a> </span> <span class="border_line"></span> </li>
+
+            <li> <img src="images/glry-img5.jpg" alt="" /> <span> <a href="images/glry-img5.jpg" data-gal="prettyPhoto[gallery1]"> <img class="img_hover_gal" src="images/lightbox-icon.png" alt=""/> </a> </span> <span class="border_line"></span> </li>
+
+            <li> <img src="images/glry-img6.jpg" alt="" /> <span> <a href="images/glry-img6.jpg" data-gal="prettyPhoto[gallery1]"> <img class="img_hover_gal" src="images/lightbox-icon.png" alt=""/> </a> </span> <span class="border_line"></span> </li>
+
+            <li> <img src="images/glry-img7.jpg" alt="" /> <span> <a href="images/glry-img7.jpg" data-gal="prettyPhoto[gallery1]"> <img class="img_hover_gal" src="images/lightbox-icon.png" alt=""/> </a> </span> <span class="border_line"></span> </li>
+
+            <li> <img src="images/glry-img8.jpg" alt="" /> <span> <a href="images/glry-img8.jpg" data-gal="prettyPhoto[gallery1]"> <img class="img_hover_gal" src="images/lightbox-icon.png" alt=""/> </a> </span> <span class="border_line"></span> </li>
+
+            <li> <img src="images/glry-img9.jpg" alt="" /> <span> <a href="images/glry-img9.jpg" data-gal="prettyPhoto[gallery1]"> <img class="img_hover_gal" src="images/lightbox-icon.png" alt=""/> </a> </span> <span class="border_line"></span> </li>
+
+          </ul>
+
+        </figure>
+
+        <figure class="span3 widget popular_project">
+
+          <h4> Popular Projects </h4>
+
+          <ul id="popular_project">
+
+            <li>
+
+              <p> Aenean lacinia biben dum ctetu rasonec idelitmattis consectetur </p>
+
+              <a href="#"> December 23, 2013 </a> , <a href="#"> 11 Comments </a> </li>
+
+            <li>
+
+              <p> Aenean lacinia biben dum ctetu rasonec idelitmattis consectetur </p>
+
+              <a href="#"> December 23, 2013 </a> , <a href="#"> 11 Comments </a> </li>
+
+            <li>
+
+              <p> Aenean lacinia biben dum ctetu rasonec idelitmattis consectetur </p>
+
+              <a href="#"> December 23, 2013 </a> , <a href="#"> 11 Comments </a> </li>
+
+          </ul>
+
+        </figure>
+
+        <figure class="span3 widget contact_form">
+
+          <h4> Get in Touch </h4>
+
+          <form name="contact_form" method="post" action="contact.php">
+
+            <input type="text" value="enter name" name="name" />
+
+            <input type="text" value="Email*" name="email" />
+
+            <textarea name="comments" rows="5" cols="10"> </textarea>
+
+            <input type="submit" value="Send Message" />
+            
+            
+
+          </form>
+
+        </figure>
+
+      </section>
+
+    </section>
+
+  </footer>
+
+  <!-- End of Footer Elements -->
+
+  <section id="copyright">
+
+    <section class="container container-fluid">
+
+      <section class="row-fluid">
+
+        <section class="span4"> <p>Copyright &copy; 2013 <a href="http://www.almadinaadvertisments.com"> Almadina Advertisments </a></p> </section>
+
+        <section class="span8">
+
+           <ul id="footer_links">
+           <li> <a href="index.html"> Home </a> /</li>
+            <li> <a href="about-us.html"> About Us </a> /</li>
+            <li> <a href="services.html"> Our Services </a> /</li>
+            <li> <a href="work.html"> Our Work </a> /</li>
+            <li> <a href="consulting.html"> Color Consulting </a> /</li>
+            <li> <a href="vendors.html"> Recommended Vendors </a> /</li>
+            <li> <a href="contact-us.html"> Contact Us </a> </li>
+          </ul>
+
+        </section>
+
+      </section>
+
+    </section>
+
+  </section>
+
+</div>
+
+<!-- End of Wrapper -->
+
+<!-- JS Files Start -->
+
+<script type="text/javascript" src="js/lib-1-9-1.js"></script><!-- lib Js -->
+
+<script type="text/javascript" src="js/lib-1-7-1.js"></script><!-- lib Js -->
+
+<script type="text/javascript" src="js/modernizr.js"></script><!-- Modernizr -->
+
+<script type="text/javascript" src="js/easing.js"></script><!-- Easing js -->
+
+<script type="text/javascript" src="js/bootstrap.js"></script><!-- Bootstrap -->
+
+<script type="text/javascript" src="js/bxslider.js"></script><!-- BX Slider -->
+
+<script type="text/javascript" src="js/isotope.js"></script><!-- ISoTope Sorting Filter -->
+
+<script type="text/javascript" src="js/prettyPhoto.js"></script><!-- Pretty Photo -->
+
+<script type="text/javascript" src="js/social.js"></script><!-- Social Media Hover Effect -->
+
+<script type="text/javascript" src="js/custom.js"></script><!-- Custom / Functions -->
+
+<!--[if IE 8]>
+
+     <script src="js/ie8_fix_maxwidth.js" type="text/javascript"></script>
+
+<![endif]-->
+
+</body>
+
+</html>
